@@ -1,2 +1,30 @@
-# b4b3f798-job-search-crm-and-application
-Structured Notion workspace for active job seekers tracking applications, interviews, and offers. Includes an application pipeline with company research notes, interview prep checklists, salary comparison table, recruiter contact log, weekly activity tracker, and offer negotiation calculator. Organises the entire job hunt from first outreach to sig
+# Job Search CRM and Application Tracker Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYfZh9z9cYI4pqgUccZb1q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYfZh9z9cYI4pqgUccZb1q)
+- [Buy on Whop](https://whop.com/job-search-crm-and-application-tracker-notion-template)
+
